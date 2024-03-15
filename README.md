@@ -1,2 +1,3 @@
 # Data Structure & Algorithm 
-Let's study hard
+Starting in March 2024.
+Let's study hard.

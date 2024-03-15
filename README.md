@@ -1,2 +1,2 @@
-# Algorithm
-Algorithm problem solving
+# Data Structure & Algorithm 
+Let's study hard

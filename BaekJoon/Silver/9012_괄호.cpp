@@ -35,6 +35,7 @@ int main() {
 		else
 			cout << "YES" << endl;
 	}
+	delete result;
 
 	return 0;
 } 
